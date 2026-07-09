@@ -1,4 +1,4 @@
-package org.rocka.model;
+package org.mkaa.model;
  
 /**
 *
