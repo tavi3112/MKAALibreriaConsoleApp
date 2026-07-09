@@ -8,7 +8,7 @@ public interface AutorDAO {
    
   
     boolean insertar(Autor autores);
-    List<Autor> listar();
+    List<Autor> listarTodos();
     Autor buscar(int id_autores);
     boolean actualizar(Autor autores);
     boolean eliminar(int id_autores);
